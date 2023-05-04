@@ -310,7 +310,7 @@ def Bat_Algorithm(fmin,fmax,alpha,initial_loudness,no_of_bats,MAX_ITERATIONS,cur
             j = j + 1
         print(i)
     return Best_solution,Best_Answer
-file = open('input_7_1.txt', 'r')
+file = open('input/input_7_1.txt', 'r')
 lines = file.readlines()
 file.close()
 
