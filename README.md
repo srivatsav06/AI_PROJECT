@@ -1,7 +1,7 @@
 
 # An Improved Bat Optimization Algorithm to Solve the Task Scheduling Problem in Open Shop
 
-This project aims to improve the Bat Optimization Algorithm to solve the Task Scheduling Problem in Open Shop. The task scheduling problem is a widely studied optimization problem, and it plays a critical role in many fields, such as manufacturing, logistics, and transportation. The Open Shop scheduling problem is a specific instance of the task scheduling problem, where all tasks must go through all machines in a specific order.
+This project aims to improve the Bat Optimization Algorithm to solve the Task Scheduling Problem in Open Shop. The task scheduling problem is a widely studied optimization problem, and it plays a critical role in many fields, such as manufacturing, logistics, and transportation. The Open Shop scheduling problem is a specific instance of the task scheduling problem, where all tasks need not go through all machines in a specific order.
 
 ## How to Run
 
